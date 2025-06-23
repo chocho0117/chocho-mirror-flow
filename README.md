@@ -297,11 +297,11 @@ Type C (2 start):   2→1→0.55→1.1→2.2→1.15→2.3→1.2→...
 
 ## 👨‍💻 Author
 
-**김초초 (Kim Chocho)**
+**김초원 (Kim Chowon)**
 
 - Original Concept: June 2025
 - Mathematical Formalization: Collaborative with AI
-- GitHub: [@chocho](https://github.com/chocho) *(placeholder)*
+- GitHub: [@chocho0117](https://github.com/chocho0117) *(placeholder)*
 
 ### Inspiration
 
